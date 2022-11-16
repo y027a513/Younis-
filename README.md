@@ -48,7 +48,7 @@ I tried to find figure(2) and (3)
 #### [0.1.1] - 2022.11.13
 I tried to calculate the diameter of figure(3)
 #### [0.1.0] - 2022.11.15
-I tried to start in ReadMe and ChangeLog Files
+I tried to start in ReadMe file, which writing general and specific information about this program. 
 
 
 ## License
